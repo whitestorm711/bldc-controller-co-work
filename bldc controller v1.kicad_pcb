@@ -22904,6 +22904,66 @@
 		(layer "User.1")
 		(uuid "50e77234-25ae-4afd-8e09-5a5991945a9a")
 	)
+	(gr_text "P1"
+		(at 105.1 141.2 0)
+		(layer "F.SilkS")
+		(uuid "90282f02-3de7-43f7-b5dd-21f70f49b5b1")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "P2"
+		(at 124.2 141.4 0)
+		(layer "F.SilkS")
+		(uuid "cbd441d5-3847-4811-9b3a-02fb8365f1dd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "P3"
+		(at 143 141.1 0)
+		(layer "F.SilkS")
+		(uuid "4e937522-ea61-4fc6-9f12-3c4ba6e42b35")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "V-\n"
+		(at 93.9 95.1 270)
+		(layer "F.SilkS")
+		(uuid "7818c563-ee46-401f-920d-255e2f72efa5")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "V+\n"
+		(at 93.9 106.5 270)
+		(layer "F.SilkS")
+		(uuid "1c25bd27-a3af-4f59-8534-6880da9ed35c")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(via
 		(at 114.425 113.8)
 		(size 0.6)
