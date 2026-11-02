@@ -20138,7 +20138,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 204.47 22.86 0)
 			(hide yes)
 			(show_name no)
