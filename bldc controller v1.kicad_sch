@@ -10554,7 +10554,7 @@
 			)
 		)
 	)
-	(global_label "Isen1"
+	(global_label "Isen3"
 		(shape input)
 		(at 320.04 41.91 90)
 		(fields_autoplaced yes)
@@ -10578,7 +10578,7 @@
 			)
 		)
 	)
-	(global_label "Isen2"
+	(global_label "Isen1"
 		(shape input)
 		(at 271.78 72.39 270)
 		(fields_autoplaced yes)
@@ -11202,7 +11202,7 @@
 			)
 		)
 	)
-	(global_label "Isen3"
+	(global_label "Isen2"
 		(shape input)
 		(at 269.24 72.39 270)
 		(fields_autoplaced yes)
