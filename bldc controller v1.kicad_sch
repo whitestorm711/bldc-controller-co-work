@@ -10556,17 +10556,17 @@
 	)
 	(global_label "Isen1"
 		(shape input)
-		(at 269.24 72.39 270)
+		(at 320.04 41.91 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "1ef103cc-1596-4799-8ca3-a2b33cbf973a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.24 80.4552 90)
+			(at 320.04 33.8448 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10574,7 +10574,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
@@ -11204,17 +11204,17 @@
 	)
 	(global_label "Isen3"
 		(shape input)
-		(at 320.04 41.91 90)
+		(at 269.24 72.39 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "d0cd9925-cdc9-47ee-a9e1-7f97f40c0089")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 320.04 33.8448 90)
+			(at 269.24 80.4552 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11222,7 +11222,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
